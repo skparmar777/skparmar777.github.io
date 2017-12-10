@@ -1,10 +1,48 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="myPage.css">
+    <link rel="stylesheet" type="text/css" href="myPage.css">
+    <title> Sejal K. Parmar </title>
 </head>
 <body>
-  <h1>Hello World</h1>
-  <p>I'm hosted with GitHub Pages.</p>
+    <div class="navbar">
+        <a href="index.html">Home</a>
+        <a href="https://www.linkedin.com/in/sejalkparmar/">My LinkedIn</a>
+        <div class="dropdown">
+            <button class="dropbtn" onclick="myFunction()">More
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content" id="myDropdown">
+                <a href="experience.html">Experience/Projects</a>
+                <a href="hobbies.html">Hobbies</a>
+                <a href="mailto:sejalkp2@illinois.edu">Contact Me</a>
+            </div>
+        </div>
+    </div>
+    <script>
+        /* When the user clicks on the button,
+        toggle between hiding and showing the dropdown content */
+        function myFunction() {
+            document.getElementById("myDropdown").classList.toggle("show");
+        }
+
+        // Close the dropdown if the user clicks outside of it
+        window.onclick = function(e) {
+            if (!e.target.matches('.dropbtn')) {
+                var myDropdown = document.getElementById("myDropdown");
+                if (myDropdown.classList.contains('show')) {
+                    myDropdown.classList.remove('show');
+                }
+            }
+        }
+    </script>
+
+    <h1>Sejal K. Parmar</h1>
+    <h2>Welcome to my page!</h2>
+    <img id = "myPic" src = 'sejal.png'>
+    <h2> Who am I? </h2>
+    <p> I am a current undergraduate at the University of Illinois at Urbana-Champaign. I'm studying Computer Science in the College of Engineering with a possible minor in statistics.</p>
+    <p> My interests lie in Data Science and Machine Learning, and I'm looking for opportunities to gain experience in these fields.</p>
+    <p> Feel free to explore my website and contact me if you have any questions!</p>
 </body>
 </html>
