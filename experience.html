@@ -25,6 +25,37 @@
     </script>
 </head>
 <body>
+<div class="navbar">
+    <a href="index.html">Home</a>
+    <a href="https://www.linkedin.com/in/sejalkparmar/">My LinkedIn</a>
+    <div class="dropdown">
+        <button class="dropbtn" onclick="myFunction()">More
+            <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content" id="myDropdown">
+            <a href="experience.html">Experience/Projects</a>
+            <a href="hobbies.html">Hobbies</a>
+            <a href="mailto:sejalkp2@illinois.edu">Contact Me</a>
+        </div>
+    </div>
+</div>
+    <script>
+        /* When the user clicks on the button,
+        toggle between hiding and showing the dropdown content */
+        function myFunction() {
+            document.getElementById("myDropdown").classList.toggle("show");
+        }
+
+        // Close the dropdown if the user clicks outside of it
+        window.onclick = function(e) {
+            if (!e.target.matches('.dropbtn')) {
+                var myDropdown = document.getElementById("myDropdown");
+                if (myDropdown.classList.contains('show')) {
+                    myDropdown.classList.remove('show');
+                }
+            }
+        }
+    </script>
     <h1>Experience</h1>
     <p> This timeline shows what I've worked on. Keep scrolling for a brief description of each project/experience</p>
 
