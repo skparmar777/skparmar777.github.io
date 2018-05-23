@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e8454b-ddae-43a2-a977-1e8fa72576de" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/research.html" afterPath="$PROJECT_DIR$/skills.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,8 +41,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="134" column="79" lean-forward="false" selection-start-line="134" selection-start-column="79" selection-end-line="134" selection-end-column="79" />
+            <state relative-caret-position="1390">
+              <caret line="166" column="31" lean-forward="false" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -116,7 +116,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1220" />
     <option name="y" value="520" />
     <option name="width" value="1400" />
@@ -142,30 +142,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="templated-projection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="templated-projection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="templated-projection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="templated-projection" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="templated-projection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="templated-projection" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="templated-projection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="templated-projection" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="templated-projection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="templated-projection" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="skparmar777.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skparmar777.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -211,15 +189,15 @@
       <option name="presentableId" value="Default" />
       <updated>1527028710232</updated>
       <workItem from="1527028711862" duration="9091000" />
-      <workItem from="1527051150683" duration="434000" />
+      <workItem from="1527051150683" duration="1700000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9525000" />
+    <option name="totallyTimeSpent" value="10791000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-18" y="-18" width="3876" height="2076" extended-state="6" />
+    <frame x="-18" y="-18" width="3876" height="2076" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -345,8 +323,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="134" column="79" lean-forward="false" selection-start-line="134" selection-start-column="79" selection-end-line="134" selection-end-column="79" />
+        <state relative-caret-position="1390">
+          <caret line="166" column="31" lean-forward="false" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
           <folding />
         </state>
       </provider>
