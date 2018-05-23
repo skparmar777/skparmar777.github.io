@@ -1,58 +1,168 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
+<!--
+	Projection by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
 <html>
-<head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111838431-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
 
-        gtag('config', 'UA-111838431-1');
-    </script>
-    <link rel="stylesheet" type="text/css" href="myPage.css">
-    <title> Sejal K. Parmar </title>
-</head>
-<body>
-    <div class="navbar">
-        <a href="index.html">Home</a>
-        <a href="https://www.linkedin.com/in/sejalkparmar/">My LinkedIn</a>
-        <a href = "https://github.com/skparmar777">My Github</a>
-        <div class="dropdown">
-            <button class="dropbtn" onclick="myFunction()">More
-                <i class="fa fa-caret-down"></i>
-            </button>
-            <div class="dropdown-content" id="myDropdown">
-                <a href="experience.html">Experience/Projects</a>
-                <a href="hobbies.html">Hobbies</a>
-                <a href="mailto:sejalkp2@illinois.edu">Contact Me</a>
-            </div>
-        </div>
-    </div>
-    <script>
-        /* When the user clicks on the button,
-        toggle between hiding and showing the dropdown content */
-        function myFunction() {
-            document.getElementById("myDropdown").classList.toggle("show");
-        }
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="index.html" class="logo"></a>
+					<nav id="nav">
+						<a href="index.html">Home</a>
+						<a href="https://www.linkedin.com/in/sejalkparmar/">My LinkedIn</a>
+						<a href = "https://github.com/skparmar777">My Github</a>
+					</nav>
+					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+				</div>
+			</header>
 
-        // Close the dropdown if the user clicks outside of it
-        window.onclick = function(e) {
-            if (!e.target.matches('.dropbtn')) {
-                var myDropdown = document.getElementById("myDropdown");
-                if (myDropdown.classList.contains('show')) {
-                    myDropdown.classList.remove('show');
-                }
-            }
-        }
-    </script>
+		<!-- Banner -->
+			<section id="banner">
+				<div class="inner">
+					<header>
+						<span ><img src="images/sejal.png" alt="" id = "sej"/></span>
 
-    <h1>Sejal K. Parmar</h1>
-    <h2>Welcome to my page!</h2>
-    <img id = "myPic" src = 'sejal.png'>
-    <h2> Who am I? </h2>
-    <p> I am a current undergraduate at the University of Illinois at Urbana-Champaign. I'm studying Computer Science in the College of Engineering with a possible minor in statistics.</p>
-    <p> My interests lie in Data Science and Machine Learning, and I'm looking for opportunities to gain experience in these fields.</p>
-    <p> Feel free to explore my website and contact me if you have any questions!</p>
-</body>
+						<h1>Sejal K. Parmar</h1>
+					</header>
+
+					<div class="flex ">
+
+						<div>
+							<span> <img src = "images/network.png" id = "ic"/></span>
+							<h3>Leadership</h3>
+						</div>
+
+						<div>
+							<span> <img src = "images/loyalty.png" id = "ic"/></span>
+							<h3>Commitment</h3>
+						</div>
+
+						<div>
+							<span> <img src = "images/creative-idea.png" id = "ic"/></span>
+							<h3>Ingenuity</h3>
+						</div>
+
+					</div>
+
+					<footer>
+						<a href="#aboutMe" class="button">About Me</a>
+					</footer>
+				</div>
+			</section>
+
+
+		<!-- Three -->
+			<section id="three" class="wrapper align-center">
+				<div class="inner">
+					<div class="flex flex-2">
+						<div id = "aboutMe">
+							<span class="image left"><img id = "abtPic" src="images/abtme.jpg" alt="" /></span>
+							<h1 class = "aboutMe">About Me</h1>
+							<p> Hello! My name is Sejal K. Parmar and I am a current undergraduate at the University of Illinois at Urbana Champaign. </p>
+							<p>I'm studying Computer Science in the College of Engineering with a minor in Applied Statistics. My technical interests lie in Data Science and Machine learning, and I'm looking for opportunities to gain experience in these fields. </p>
+							<p> When I'm not working with some aspect of CS, you can find me satisfying my sweet tooth by baking all sorts of desserts, playing badminton to feel less guilty about the aforementioned desserts, and/or travelling! Feel free to explore my site and contact me if you have any questions! </p>
+
+						</div>
+						<p></p>
+						<hr>
+						<article>
+							<div class="image round">
+								<img src="images/blackboard-business-chalkboard-355988.jpg" id="work" />
+							</div>
+							<header>
+								<h3>Internships & Work Experience<br /> </h3>
+							</header>
+							<footer>
+								<a href="#" class="button">Learn More</a>
+							</footer>
+							<h4></h4>
+						</article>
+						<article>
+							<div class="image round">
+								<img src="images/batch-books-document-357514.jpg" alt="Pic 02" />
+							</div>
+							<header>
+								<h3>Research<br /></h3>
+							</header>
+							<footer>
+								<a href="#" class="button">Learn More</a>
+							</footer>
+							<h4></h4>
+
+						</article>
+						<h5></h5>
+						<article>
+							<div class="image round">
+								<img src="images/agenda-concept-development-7376.jpg" alt="Pic 02" />
+							</div>
+							<header>
+								<h3>Projects<br /></h3>
+							</header>
+							<footer>
+								<a href="#" class="button">Learn More</a>
+							</footer>
+						</article>
+						<article>
+							<div class="image round">
+								<img src="images/code-coding-computer-574073.jpg" alt="Pic 02" />
+							</div>
+							<header>
+								<h3>Resume<br /></h3>
+							</header>
+							<footer>
+								<a href="assets/Resume.pdf" class="button">Learn More</a>
+							</footer>
+						</article>
+					</div>
+				</div>
+			</section>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+
+					<h3>Get in touch</h3>
+
+					<form action="#" method="post">
+
+						<div class="field half first">
+							<label for="name">Name</label>
+							<input name="name" id="name" type="text" placeholder="Name">
+						</div>
+						<div class="field half">
+							<label for="email">Email</label>
+							<input name="email" id="email" type="email" placeholder="Email">
+						</div>
+						<div class="field">
+							<label for="message">Message</label>
+							<textarea name="message" id="message" rows="6" placeholder="Message"></textarea>
+						</div>
+						<ul class="actions">
+							<li><input value="Send Message" class="button alt" type="submit"></li>
+						</ul>
+					</form>
+
+					<div class="copyright">
+						&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Unsplash</a>.
+					</div>
+
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
 </html>
