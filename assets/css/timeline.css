@@ -387,6 +387,9 @@ Vertical Timeline - by CodyHouse.co
     .cd-timeline__content h2 {
         font-size: 2rem;
     }
+    .cd-timeline__content h3 {
+        font-size: 1.5rem;
+    }
     .cd-timeline__content p {
         font-size: 1.6rem;
     }
