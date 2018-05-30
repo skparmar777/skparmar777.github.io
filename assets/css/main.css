@@ -7,6 +7,9 @@
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
+.dropbar {
+	display: block;
+}
 
 	#sej {
 		border-radius: 50%;
