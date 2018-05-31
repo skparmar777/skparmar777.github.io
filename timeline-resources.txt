@@ -5,7 +5,7 @@
 					</div> <!-- cd-timeline__img -->
 					<div class="cd-timeline__content js-cd-content">
 						<h2>Title of section 1</h2>
-						<h3><span><img src = "images/placeholder.png" id = "location"/></span> Chicago, IL</h3>
+						<h3><span><img src = "images/placeholder.png" class = "location"/></span> Chicago, IL</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
 						<span class="cd-timeline__date">Jan 14</span>
 					</div> <!-- cd-timeline__content -->
@@ -19,7 +19,7 @@
 					</div> <!-- cd-timeline__img -->
 					<div class="cd-timeline__content js-cd-content">
 						<h2>Title of section 2</h2>
-						<h3><span><img src = "images/placeholder.png" id = "location"/></span> Chicago, IL</h3>
+						<h3><span><img src = "images/placeholder.png" class = "location"/></span> Chicago, IL</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde?</p>
 						<span class="cd-timeline__date">Jan 18</span>
 					</div> <!-- cd-timeline__content -->
@@ -34,7 +34,7 @@
 
 					<div class="cd-timeline__content js-cd-content">
 						<h2>Title of section 3</h2>
-						<h3><span><img src = "images/placeholder.png" id = "location"/></span> Chicago, IL</h3>
+						<h3><span><img src = "images/placeholder.png" class = "location"/></span> Chicago, IL</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, obcaecati, quisquam id molestias eaque asperiores voluptatibus cupiditate error assumenda delectus odit similique earum voluptatem doloremque dolorem ipsam quae rerum quis. Odit, itaque, deserunt corporis vero ipsum nisi eius odio natus ullam provident pariatur temporibus quia eos repellat consequuntur perferendis enim amet quae quasi repudiandae sed quod veniam dolore possimus rem voluptatum eveniet eligendi quis fugiat aliquam sunt similique aut adipisci.</p>
 						<span class="cd-timeline__date">Jan 24</span>
 					</div> <!-- cd-timeline__content -->
@@ -48,7 +48,7 @@
         			</div> <!-- cd-timeline__img -->
         			<div class="cd-timeline__content js-cd-content">
         				<h2>Title of section 1</h2>
-        				<h3><span><img src = "images/placeholder.png" id = "location"/></span> Chicago, IL</h3>
+        				<h3><span><img src = "images/placeholder.png" class = "location"/></span> Chicago, IL</h3>
         				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
         				<span class="cd-timeline__date">Jan 14</span>
         			</div> <!-- cd-timeline__content -->

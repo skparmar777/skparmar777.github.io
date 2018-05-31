@@ -28,43 +28,19 @@
 	</div>
 </header>
 
-<div class="inner">
-	<header class="align-center">
-		<h2></h2>
-		<h2>Research</h2>
-		<hr>
-	</header>
-</div>
-
-<section class="cd-timeline js-cd-timeline">
-	<div class="cd-timeline__container">
-		<!-- project -->
-		<div class="cd-timeline__block js-cd-block">
-			<div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
-				<img src="images/document.png" alt="Picture">
-			</div> <!-- cd-timeline__img -->
-			<div class="cd-timeline__content js-cd-content">
-				<h2>Title of section 1</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
-				<span class="cd-timeline__date">Jan 14</span>
-			</div> <!-- cd-timeline__content -->
-		</div> <!-- cd-timeline__block -->
-
-		<!-- research -->
-		<div class="cd-timeline__block js-cd-block">
-			<div class="cd-timeline__img cd-timeline__img--movie js-cd-img">
-				<img src="images/big_research.png" alt="Movie">
-			</div> <!-- cd-timeline__img -->
-			<div class="cd-timeline__content js-cd-content">
-				<h2>Title of section 2</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde?</p>
-				<span class="cd-timeline__date">Jan 18</span>
-			</div> <!-- cd-timeline__content -->
-		</div> <!-- cd-timeline__block -->
-
+<!-- Three -->
+<section id="three" class="wrapper">
+	<div class="inner">
+		<header class="align-center">
+			<h2>Research</h2>
+		</header>
+		<h4>Evaluating the Effectiveness of Precondition Generation Tools | UIUC</h4>
+		<p>January 2018 - May 2018</p>
+		<p>As a part of the PURE Program, I researched under Angello Astorga, a PhD candidate at UIUC. My work focuses on evaluating the effectiveness of automated pre-condition inference tools in terms of a white box vs black box approach. In many cases, writings specifications for programs helps one describe the program's behavioral properties, but the task of writing these specifications is often time-consuming and difficult. In this project, we looked at the commutativity of methods and idempotency to evaluate the effectiveness of automated precondition inference tools. The project took into account a black box approach in comparison to a white box approach. The black box approach was very data-driven. Data points were extracted from random sampling or test generation tools, and we passed these to a decision tree machine learning algorithm. The white box approach, on the other hand, used the program's inner structural and semantic properties, as well as input suites to generalize from observed behavior in test runs. Through manual inspection of the results of both approaches, we were able to analyze the outputs to see which one produced better results. My work included writing specification for commutativity and idempotency of methods using parameterized unit tests. After evaluating the two tools for precondition inference (black box based on testing + machine learning and white box based on testing + dynamic analysis), I performed a manual inspection to assess the goodness of preconditions based on correctness and complexity. What we found was that white box preconditions were much more complex and specific than black box preconditions. The black box preconditions were usually more general and more correct in the sense that the specificity of white box preconditions often ended up ruling out possible good runs that the black box kept. </p>
+		<p>Accolade: Best Presentation at PURE Research Symposium Spring 2018</p>
+		<p> <a href = "assets/PURE_Poster_SejalKParmar.pdf">Research Poster</a></p>
 	</div>
-</section> <!-- cd-timeline -->
-<script src="assets/js/timeline.js"></script> <!-- Resource JavaScript -->
+</section>
 
 
 <footer id="footer">
