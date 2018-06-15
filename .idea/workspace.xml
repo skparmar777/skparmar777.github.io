@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e8454b-ddae-43a2-a977-1e8fa72576de" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/extracurriculars.html" afterPath="$PROJECT_DIR$/extracurriculars.html" />
+      <change beforePath="$PROJECT_DIR$/skills.html" afterPath="$PROJECT_DIR$/skills.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="extracurriculars.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="extracurriculars.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/extracurriculars.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="992">
@@ -40,18 +39,18 @@
       <file leaf-file-name="timeline-resources.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/timeline-resources.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
+            <state relative-caret-position="868">
               <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="25" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="skills.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="skills.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/skills.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2914">
-              <caret line="47" column="22" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="47" selection-end-column="22" />
+            <state relative-caret-position="628">
+              <caret line="33" column="109" lean-forward="false" selection-start-line="33" selection-start-column="109" selection-end-line="33" selection-end-column="109" />
               <folding />
             </state>
           </provider>
@@ -91,7 +90,6 @@
       <list>
         <option value="$PROJECT_DIR$/elements.html" />
         <option value="$PROJECT_DIR$/CREDITS.txt" />
-        <option value="$PROJECT_DIR$/skills.html" />
         <option value="$PROJECT_DIR$/assets/css/timeline.css" />
         <option value="$PROJECT_DIR$/experience.html" />
         <option value="$PROJECT_DIR$/index.html" />
@@ -100,6 +98,7 @@
         <option value="$PROJECT_DIR$/research.html" />
         <option value="$PROJECT_DIR$/timeline-resources.txt" />
         <option value="$PROJECT_DIR$/extracurriculars.html" />
+        <option value="$PROJECT_DIR$/skills.html" />
       </list>
     </option>
   </component>
@@ -130,6 +129,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,8 +159,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,11 +206,12 @@
       <workItem from="1527537606140" duration="8273000" />
       <workItem from="1527706676754" duration="3141000" />
       <workItem from="1527734961010" duration="3371000" />
+      <workItem from="1529030398578" duration="97000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27427000" />
+    <option name="totallyTimeSpent" value="27524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-18" y="-18" width="3876" height="2076" extended-state="6" />
@@ -258,7 +258,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2852">
           <caret line="46" column="22" lean-forward="false" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -288,7 +287,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1550">
           <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -325,7 +323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2852">
           <caret line="46" column="22" lean-forward="false" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -355,7 +352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1550">
           <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -371,7 +367,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2852">
           <caret line="46" column="22" lean-forward="false" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -422,7 +417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1550">
           <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -437,7 +431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2852">
           <caret line="46" column="22" lean-forward="true" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -481,7 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -535,7 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14880">
           <caret line="240" column="34" lean-forward="false" selection-start-line="240" selection-start-column="34" selection-end-line="240" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -550,7 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="992">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -561,19 +551,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/skills.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2914">
-          <caret line="47" column="22" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="47" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/research.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="852">
           <caret line="39" column="77" lean-forward="false" selection-start-line="39" selection-start-column="77" selection-end-line="39" selection-end-column="77" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -581,7 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
           <caret line="50" column="86" lean-forward="false" selection-start-line="47" selection-start-column="24" selection-end-line="50" selection-end-column="86" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -595,7 +575,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/timeline-resources.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
+        <state relative-caret-position="868">
           <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="25" selection-end-column="50" />
           <folding />
         </state>
@@ -605,6 +585,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="992">
           <caret line="49" column="269" lean-forward="false" selection-start-line="49" selection-start-column="269" selection-end-line="49" selection-end-column="269" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skills.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="33" column="109" lean-forward="false" selection-start-line="33" selection-start-column="109" selection-end-line="33" selection-end-column="109" />
           <folding />
         </state>
       </provider>
