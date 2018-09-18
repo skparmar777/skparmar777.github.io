@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="45e8454b-ddae-43a2-a977-1e8fa72576de" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets/Resume.pdf" afterPath="$PROJECT_DIR$/assets/Resume.pdf" />
-      <change beforePath="$PROJECT_DIR$/experience.html" afterPath="$PROJECT_DIR$/experience.html" />
-      <change beforePath="$PROJECT_DIR$/extracurriculars.html" afterPath="$PROJECT_DIR$/extracurriculars.html" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/skills.html" afterPath="$PROJECT_DIR$/skills.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,7 +19,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4402">
+            <state relative-caret-position="3596">
               <caret line="71" column="139" lean-forward="false" selection-start-line="71" selection-start-column="139" selection-end-line="71" selection-end-column="139" />
               <folding />
             </state>
@@ -193,12 +188,20 @@
       <workItem from="1527706676754" duration="3141000" />
       <workItem from="1527734961010" duration="3371000" />
       <workItem from="1529030398578" duration="212000" />
-      <workItem from="1534993201845" duration="2945000" />
+      <workItem from="1534993201845" duration="3574000" />
     </task>
+    <task id="LOCAL-00001" summary="edited work experience, added fintech event to extracurriculars, updated interests">
+      <created>1534996761104</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534996761104</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30584000" />
+    <option name="totallyTimeSpent" value="31213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-18" y="-18" width="3876" height="2076" extended-state="6" />
@@ -228,6 +231,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edited work experience, added fintech event to extracurriculars, updated interests" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited work experience, added fintech event to extracurriculars, updated interests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -580,7 +587,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4402">
+        <state relative-caret-position="3596">
           <caret line="71" column="139" lean-forward="false" selection-start-line="71" selection-start-column="139" selection-end-line="71" selection-end-column="139" />
           <folding />
         </state>
